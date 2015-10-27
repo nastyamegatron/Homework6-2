@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DangerousApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dangerous_label">Label</string>
+    <string name="dangerous_description">Description</string>
+</resources>
