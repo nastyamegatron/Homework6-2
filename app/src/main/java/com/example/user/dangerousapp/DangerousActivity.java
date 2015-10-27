@@ -11,9 +11,10 @@ public class DangerousActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        mImage = (ImageView)findViewById(R.id.imageView);
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dangerous);
+        mImage = (ImageView)findViewById(R.id.imageView);
     }
 
     @Override
